@@ -79,6 +79,10 @@
     background-color: #01C8FF;
 }
 
+.gap-30 {
+    gap: 30px;
+}
+
 .choose-text {
     font-family: "Poppins", sans-serif;
     font-size: 48px;
@@ -86,6 +90,7 @@
     line-height: 72px;
     text-align: center;
     color: #000000;
+    padding-bottom: 60px;
 }
 
 .time {
@@ -126,6 +131,10 @@
         border-radius: 0%;
     }
 
+}
+
+.mt-24 {
+    margin-top: 24px;
 }
 
 .Lorem {
