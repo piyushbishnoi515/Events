@@ -1,7 +1,15 @@
-const menuicon = document.querySelector("menuicon");
-const menulist = document.querySelector("menulist");
+const menuicon = document.querySelector(".menuicon");
+const menulist = document.querySelector(".menulist");
 
 
 menuicon.addEventListener("click", function () {
     menulist.classList.toggle("showlist");
 })
+
+
+// const menuicon = document.querySelector(".menuicon");
+// const menulist = document.querySelector(".menulist");
+
+// menuicon.addEventListener("click", function () {
+//     menulist.classList.toggle("showlist")
+// })
