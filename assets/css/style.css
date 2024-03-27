@@ -16,8 +16,15 @@
     margin-right: auto;
 }
 
-.gap-10 {
+.gap-15 {
     gap: 15px;
+}
+
+.pt-215 {
+    padding-top: 215px;
+}
+.footer-links{
+    margin-top: 9px;
 }
 
 .row {
@@ -113,7 +120,7 @@
 
 .menu-line-1 {
     width: 20px;
-    height: 18px;
+    height: 21px;
 
 }
 
@@ -309,7 +316,7 @@
 .card:hover {
     cursor: pointer;
     box-shadow: 0px 8px 35px 0px #0000001A;
-    border: none;
+    border:1px solid transparent;
 
     .card-img {
         border-radius: 0%;
